@@ -1,6 +1,6 @@
 # Excel_Ecommerce_sales_Dashboard
 
-##About 
+## About 
 
 * Ecommerce  Sales Analysis 
 * Year 2019
@@ -9,7 +9,7 @@
 * 51000 + observations
 * Fields : 21
 
-###Key Points to be Extracted from Analyses
+### Key Points to be Extracted from Analyses
 
 * Monthly Sales of Product with Respect to Region and Segment 
 * Profit Distribution & Quantity distribution in different Product category .
