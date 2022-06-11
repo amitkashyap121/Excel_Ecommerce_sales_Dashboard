@@ -2,12 +2,12 @@
 
 ##About 
 
-Ecommerce  Sales Analysis 
-Year 2019
-Data Categories  :  Sales Data
-                    Return Order Date
-51000 + observations
-Fields : 21
+*Ecommerce  Sales Analysis 
+*Year 2019
+*Data Categories  :  Sales Data
+*                   Return Order Date
+* 51000 + observations
+* Fields : 21
 
 ###Key Points to be Extracted from Analyses
 
